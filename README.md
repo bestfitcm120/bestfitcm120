@@ -62,7 +62,6 @@ $ monitoring="24/7"
 
 ```
 [2020-Present]  Founder & Lead Infrastructure Engineer @ BESTFIT Network
-                ├── Designed autonomous network infrastructure with AS registration
                 ├── Built containerized application stack for multiple clients
                 ├── Achieved 99.9% uptime SLA across all managed services
                 └── Implemented zero-trust security architecture
