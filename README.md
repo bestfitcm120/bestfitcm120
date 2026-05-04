@@ -1,74 +1,94 @@
-# Hi there! 👋 I'm the architect behind Bestfit Network
+<div align="center">
 
-I'm a developer and sysadmin passionate about building robust infrastructure, solving complex algorithmic challenges, and exploring the limits of self-hosting. Whether I'm optimizing C++ code or containerizing a new service, I love making systems work seamlessly together.
+```
+ ██████╗ ███████╗███████╗████████╗███████╗██╗████████╗
+ ██╔══██╗██╔════╝██╔════╝╚══██╔══╝██╔════╝██║╚══██╔══╝
+ ██████╔╝█████╗  ███████╗   ██║   █████╗  ██║   ██║   
+ ██╔══██╗██╔══╝  ╚════██║   ██║   ██╔══╝  ██║   ██║   
+ ██████╔╝███████╗███████║   ██║   ██║     ██║   ██║   
+ ╚═════╝ ╚══════╝╚══════╝   ╚═╝   ╚═╝     ╚═╝   ╚═╝   
+```
 
----
+### Infrastructure Architect · Network Engineer · Systems Builder
 
-## 🛠️ Skills & Technologies
+[![Website](https://img.shields.io/badge/website-bestfit.fyi-00d4ff?style=flat-square&logo=globe&logoColor=white)](https://bestfit.fyi)
+[![Email](https://img.shields.io/badge/email-best%40bestfit.fyi-00d4ff?style=flat-square&logo=gmail&logoColor=white)](mailto:best@bestfit.fyi)
+[![Network](https://img.shields.io/badge/network-BESTFIT_Network-0d1220?style=flat-square&logo=cloudflare&logoColor=00d4ff)](https://bestfit.fyi)
 
-**Languages:**
-- C++ (Strong focus on algorithms and data structures)
-
-**Infrastructure & DevOps:**
-- Docker & Docker Compose
-- Traefik Reverse Proxy
-- Linux Sysadmin
-- Network Routing
-
-**Specializations:**
-- Self-Hosted Services & Infrastructure
-- Containerization & Orchestration
-- Competitive Programming (Codeforces)
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## `$ whoami`
 
-### Bestfit Network
-My personal homelab and infrastructure ecosystem - a comprehensive self-hosted platform for managing services, infrastructure, and applications.
-- **Tech Stack:** Docker, Linux, Traefik, Node.js
-- **Focus:** Robust, scalable infrastructure
-- 🔗 [Visit Bestfit Network](https://bestfit.fyi)
+I'm an infrastructure engineer and network architect behind **BESTFIT Network** — designing and deploying enterprise-grade network infrastructure, cloud systems, and resilient architectures that power modern applications.
 
-### Interactive Portfolio Website
-A self-hosted, dynamic portfolio with admin panel for managing services.
-- **Tech Stack:** Node.js, Express, Docker
-- **Features:** Admin authentication, service management, responsive design
-- 🔗 [View Source](https://github.com/bestfitcm120/bestfitcm120-portfolio-website) (Private)
+My work spans the full infrastructure stack: from low-level routing protocols (BGP, OSPF) to containerized application deployment, zero-trust security, and automated DevOps pipelines. I build systems that are not just functional, but resilient, scalable, and maintainable.
 
----
-
-## 📈 Competitive Programming
-
-I actively compete and solve algorithmic problems on **Codeforces**. My favorite challenges involve string manipulation and data structure optimization.
+```bash
+$ uptime_sla="99.9%"
+$ systems_deployed=50+
+$ years_experience=5+
+$ monitoring="24/7"
+```
 
 ---
 
-## 📊 Check Out My Work
+## `$ cat skills.json`
 
-Visit my repositories to see my latest projects and contributions!
-
-- 🌐 [Bestfit Network Portfolio](https://bestfit.fyi)
-- 💼 [View All Repositories](https://github.com/bestfitcm120?tab=repositories)
-- 🔗 [Contribution Activity](https://github.com/bestfitcm120)
-
----
-
-## 🎯 Current Focus
-
-- 🏗️ Building and optimizing self-hosted infrastructure
-- 💻 Mastering C++ for competitive programming
-- 🐳 Containerization and infrastructure as code
-- 🔐 Implementing secure, production-ready systems
+```json
+{
+  "Infrastructure": ["Linux", "Docker", "Kubernetes", "Proxmox", "VMware"],
+  "Networking":     ["BGP", "OSPF", "VLANs", "pfSense", "MikroTik", "Cisco"],
+  "Cloud & DevOps": ["AWS", "Terraform", "Ansible", "CI/CD", "Prometheus", "Grafana"],
+  "Security":       ["Firewalls", "WireGuard VPN", "SSL/TLS", "IDS/IPS", "Zero Trust"]
+}
+```
 
 ---
 
-## 📫 Get In Touch
+## `$ ls projects/`
 
-- 🌐 **Website:** [bestfit.fyi](https://bestfit.fyi)
-- 💼 **Portfolio:** Check out my self-hosted infrastructure
-- 📧 Feel free to reach out for collaborations or inquiries
+### 🌐 BESTFIT Network Infrastructure
+> Autonomous network infrastructure providing high-availability hosting, BGP routing, and managed services.
+
+- **Status:** `● Live`
+- **Stack:** BGP · Linux · Docker · Prometheus · Grafana
+- **Uptime:** 99.9% SLA
+- **Link:** [bestfit.fyi](https://bestfit.fyi)
 
 ---
 
-**Thanks for visiting! Explore my repositories and infrastructure projects.** ⭐
+## `$ cat experience.log`
+
+```
+[2020-Present]  Founder & Lead Infrastructure Engineer @ BESTFIT Network
+                ├── Designed autonomous network infrastructure with AS registration
+                ├── Built containerized application stack for multiple clients
+                ├── Achieved 99.9% uptime SLA across all managed services
+                └── Implemented zero-trust security architecture
+```
+
+---
+
+## `$ ping best@bestfit.fyi`
+
+```
+PING best@bestfit.fyi ...
+64 bytes from best@bestfit.fyi: response_time < 24h
+```
+
+| Channel | Address |
+|---------|---------|
+| 📧 Email | [best@bestfit.fyi](mailto:best@bestfit.fyi) |
+| 🌐 Web | [bestfit.fyi](https://bestfit.fyi) |
+
+---
+
+<div align="center">
+
+*BESTFIT Network — Engineering the backbone of tomorrow*
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bestfit.bestfit)
+
+</div>
