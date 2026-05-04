@@ -28,7 +28,7 @@ My work spans the full infrastructure stack: from low-level routing protocols (B
 ```bash
 $ uptime_sla="99.9%"
 $ systems_deployed=50+
-$ years_experience=5+
+$ years_experience=3+
 $ monitoring="24/7"
 ```
 
