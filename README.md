@@ -1,73 +1,70 @@
-# Hey there! 👋 Welcome to my GitHub profile
+# Hi there! 👋 I'm the architect behind Bestfit Network
 
-I'm **bestfitcm120**, a passionate developer and tech enthusiast. This is where I showcase my projects, contribute to open source, and share my journey in software development.
-
----
-
-## 🚀 About Me
-
-- 💻 Full-stack developer passionate about building interactive web applications
-- 🐳 Experienced with Docker containerization and deployment
-- 🔐 Security-conscious with experience in authentication and authorization
-- 📚 Continuous learner exploring new technologies
+I'm a developer and sysadmin passionate about building robust infrastructure, solving complex algorithmic challenges, and exploring the limits of self-hosting. Whether I'm optimizing C++ code or containerizing a new service, I love making systems work seamlessly together.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-**Frontend:**
-- HTML5, CSS3, JavaScript
-- React / Modern frameworks
-- Responsive UI/UX Design
+**Languages:**
+- C++ (Strong focus on algorithms and data structures)
 
-**Backend:**
-- Node.js / Express
-- Database Management (SQL/NoSQL)
-- RESTful APIs
-
-**DevOps & Infrastructure:**
+**Infrastructure & DevOps:**
 - Docker & Docker Compose
-- Environment Configuration
-- Container Orchestration
+- Traefik Reverse Proxy
+- Linux Sysadmin
+- Network Routing
+
+**Specializations:**
+- Self-Hosted Services & Infrastructure
+- Containerization & Orchestration
+- Competitive Programming (Codeforces)
 
 ---
 
-## 📁 Featured Projects
+## 🚀 Featured Projects
 
-### 🌐 Portfolio Website
-An interactive, self-hosted portfolio with admin panel for managing services and content dynamically.
+### Bestfit Network
+My personal homelab and infrastructure ecosystem - a comprehensive self-hosted platform for managing services, infrastructure, and applications.
+- **Tech Stack:** Docker, Linux, Traefik, Node.js
+- **Focus:** Robust, scalable infrastructure
+- 🔗 [Visit Bestfit Network](https://bestfit.fyi)
+
+### Interactive Portfolio Website
+A self-hosted, dynamic portfolio with admin panel for managing services.
 - **Tech Stack:** Node.js, Express, Docker
-- **Features:** Admin login, dynamic service management, responsive design
+- **Features:** Admin authentication, service management, responsive design
 - 🔗 [View Source](https://github.com/bestfitcm120/bestfitcm120-portfolio-website) (Private)
+
+---
+
+## 📈 Competitive Programming
+
+I actively compete and solve algorithmic problems on **Codeforces**. My favorite challenges involve string manipulation and data structure optimization.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bestfitcm120&theme=dark&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bestfitcm120&theme=github_dark&show_icons=true)
 
 ---
 
 ## 🎯 Current Focus
 
-- 🏗️ Building scalable web applications
-- 📦 Mastering containerization with Docker
-- 🔐 Implementing secure authentication systems
-- 🌍 Creating self-hosted solutions
+- 🏗️ Building and optimizing self-hosted infrastructure
+- 💻 Mastering C++ for competitive programming
+- 🐳 Containerization and infrastructure as code
+- 🔐 Implementing secure, production-ready systems
 
 ---
 
 ## 📫 Get In Touch
 
-- 💼 Portfolio: Check out my self-hosted portfolio website
+- 🌐 **Website:** [bestfit.fyi](https://bestfit.fyi)
+- 💼 **Portfolio:** Check out my self-hosted infrastructure
 - 📧 Feel free to reach out for collaborations or inquiries
 
 ---
 
-## 📈 Latest Activity
-
-Actively developing and maintaining projects. Check out my repositories for the latest work!
-
----
-
-**Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate.** ⭐
+**Thanks for visiting! Explore my repositories and infrastructure projects.** ⭐
