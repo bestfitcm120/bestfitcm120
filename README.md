@@ -38,10 +38,9 @@ $ monitoring="24/7"
 
 ```json
 {
-  "Infrastructure": ["Linux", "Docker", "Kubernetes", "Proxmox", "VMware"],
-  "Networking":     ["BGP", "OSPF", "VLANs", "pfSense", "MikroTik", "Cisco"],
-  "Cloud & DevOps": ["AWS", "Terraform", "Ansible", "CI/CD", "Prometheus", "Grafana"],
-  "Security":       ["Firewalls", "WireGuard VPN", "SSL/TLS", "IDS/IPS", "Zero Trust"]
+  "Infrastructure": ["Linux", "Docker", "Proxmox", "VMware"],
+  "Cloud & DevOps": ["CI/CD", "Prometheus", "Grafana"],
+  "Security":       ["Firewalls", "WireGuard VPN", "SSL/TLS", "Zero Trust"]
 }
 ```
 
