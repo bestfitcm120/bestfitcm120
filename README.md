@@ -46,7 +46,7 @@ I actively compete and solve algorithmic problems on **Codeforces**. My favorite
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bestfitcm120&theme=github_dark&show_icons=true)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bestfitcm120&show_icons=true&theme=dark)](https://github.com/bestfitcm120)
 
 ---
 
