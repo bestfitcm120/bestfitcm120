@@ -44,9 +44,13 @@ I actively compete and solve algorithmic problems on **Codeforces**. My favorite
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Check Out My Work
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bestfitcm120&show_icons=true&theme=dark)](https://github.com/bestfitcm120)
+Visit my repositories to see my latest projects and contributions!
+
+- 🌐 [Bestfit Network Portfolio](https://bestfit.fyi)
+- 💼 [View All Repositories](https://github.com/bestfitcm120?tab=repositories)
+- 🔗 [Contribution Activity](https://github.com/bestfitcm120)
 
 ---
 
